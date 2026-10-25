@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.sloth-undo.json
+.sloth-plan.json
+dev-post.md
+test-files/
